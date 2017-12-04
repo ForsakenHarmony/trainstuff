@@ -1,0 +1,17 @@
+{
+  "name": "trainstuff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/entry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "harmony <me@hrmny.pw>",
+  "license": "MIT",
+  "devDependencies": {
+    "poi": "^9.5.4"
+  },
+  "dependencies": {
+    "two.js": "github:jonobr1/two.js#dev"
+  }
+}
